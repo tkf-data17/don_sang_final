@@ -1,0 +1,10 @@
+# Dépendances de Node
+/node_modules
+
+# Fichiers de construction Vercel/Next.js/Vite
+.next
+dist
+.vercel
+
+# Fichiers log
+npm-debug.log
